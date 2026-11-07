@@ -1,0 +1,402 @@
+[
+  {
+    "code": 1,
+    "name": "Administración de las Organizaciones",
+    "year": 1,
+    "term": 1,
+    "video": "",
+    "theme": "organizacion",
+    "corr": [
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "intro": "Las organizaciones y su gestión.",
+    "hours": 64
+  },
+  {
+    "code": 2,
+    "name": "Física I",
+    "year": 1,
+    "term": 1,
+    "video": "bamOb6ZulQE",
+    "theme": "fisica",
+    "corr": [
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "intro": "Comprender los fenómenos físicos.",
+    "hours": 64
+  },
+  {
+    "code": 3,
+    "name": "Biología",
+    "year": 1,
+    "term": 1,
+    "video": "",
+    "theme": "biologia",
+    "corr": [
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "intro": "Las bases de la vida y la salud.",
+    "hours": 64
+  },
+  {
+    "code": 4,
+    "name": "Seguridad 1",
+    "year": 1,
+    "term": 1,
+    "video": "",
+    "theme": "seguridad",
+    "corr": [
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "intro": "Una mirada preventiva del trabajo.",
+    "hours": 64
+  },
+  {
+    "code": 5,
+    "name": "Psicología Laboral",
+    "year": 1,
+    "term": 2,
+    "video": "Ts1c9uk1-Ng",
+    "theme": "personas",
+    "corr": [
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "intro": "Las personas en el ámbito laboral.",
+    "hours": 64
+  },
+  {
+    "code": 6,
+    "name": "Química 1",
+    "year": 1,
+    "term": 2,
+    "video": "EEdcOB7al9s",
+    "theme": "quimica",
+    "corr": [
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "intro": "La materia y sus transformaciones.",
+    "hours": 64
+  },
+  {
+    "code": 7,
+    "name": "Recursos Naturales",
+    "year": 1,
+    "term": 2,
+    "video": "E03SWsVaxxk",
+    "theme": "ambiente",
+    "corr": [
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "intro": "Conocer y valorar nuestro entorno.",
+    "hours": 64
+  },
+  {
+    "code": 8,
+    "name": "Derecho Ambiental y del Trabajo",
+    "year": 1,
+    "term": 2,
+    "video": "",
+    "theme": "derecho",
+    "corr": [
+      "—",
+      "—",
+      "—",
+      "—"
+    ],
+    "intro": "El marco jurídico del ambiente y del trabajo.",
+    "hours": 64
+  },
+  {
+    "code": 9,
+    "name": "Seguridad 2",
+    "year": 2,
+    "term": 3,
+    "video": "",
+    "theme": "seguridad",
+    "corr": [
+      "4",
+      "—",
+      "—",
+      "4"
+    ],
+    "intro": "Profundizar la prevención de riesgos.",
+    "hours": 64
+  },
+  {
+    "code": 10,
+    "name": "Control de la Contaminación",
+    "year": 2,
+    "term": 3,
+    "video": "",
+    "theme": "ambiente",
+    "corr": [
+      "6 y 7",
+      "—",
+      "—",
+      "7"
+    ],
+    "intro": "Comprender y controlar la contaminación.",
+    "hours": 64
+  },
+  {
+    "code": 11,
+    "name": "Medicina del Trabajo",
+    "year": 2,
+    "term": 3,
+    "video": "",
+    "theme": "salud",
+    "corr": [
+      "3 y 4",
+      "—",
+      "—",
+      "4"
+    ],
+    "intro": "La salud en los entornos laborales.",
+    "hours": 64
+  },
+  {
+    "code": 12,
+    "name": "Física 2",
+    "year": 2,
+    "term": 3,
+    "video": "-jJ_EnDQ-Sg",
+    "theme": "fisica",
+    "corr": [
+      "2",
+      "—",
+      "—",
+      "2"
+    ],
+    "intro": "Profundizar el estudio de los fenómenos físicos.",
+    "hours": 64
+  },
+  {
+    "code": 13,
+    "name": "Química 2",
+    "year": 2,
+    "term": 4,
+    "video": "",
+    "theme": "quimica",
+    "corr": [
+      "6",
+      "—",
+      "—",
+      "6"
+    ],
+    "intro": "Ampliar los fundamentos químicos.",
+    "hours": 64
+  },
+  {
+    "code": 14,
+    "name": "Gestión Integral de Residuos 1",
+    "year": 2,
+    "term": 4,
+    "video": "bE37yI4GLn4",
+    "theme": "residuos",
+    "corr": [
+      "10",
+      "3",
+      "—",
+      "10"
+    ],
+    "intro": "Residuos, gestión y responsabilidad ambiental.",
+    "hours": 64
+  },
+  {
+    "code": 15,
+    "name": "Estadística",
+    "year": 2,
+    "term": 4,
+    "video": "",
+    "theme": "datos",
+    "corr": [
+      "4",
+      "—",
+      "—",
+      "4"
+    ],
+    "intro": "Datos para comprender y analizar.",
+    "hours": 64
+  },
+  {
+    "code": 16,
+    "name": "Higiene Laboral y Ambiente de Trabajo 1",
+    "year": 2,
+    "term": 4,
+    "video": "V_IwXaJ7EBM",
+    "theme": "seguridad",
+    "corr": [
+      "2",
+      "4",
+      "9",
+      "2"
+    ],
+    "intro": "Reconocer las condiciones del ambiente de trabajo.",
+    "hours": 64
+  },
+  {
+    "code": 17,
+    "name": "Inglés Técnico",
+    "year": 2,
+    "term": 4,
+    "video": "7nM5S8dC0iE",
+    "theme": "idioma",
+    "corr": [
+      "4 y 7",
+      "—",
+      "—",
+      "—"
+    ],
+    "intro": "El lenguaje técnico de la especialidad.",
+    "hours": 64
+  },
+  {
+    "code": 18,
+    "name": "Gestión Integral de Residuos 2",
+    "year": 3,
+    "term": 5,
+    "video": "",
+    "theme": "residuos",
+    "corr": [
+      "14",
+      "10",
+      "—",
+      "14"
+    ],
+    "intro": "Profundizar la gestión de los residuos.",
+    "hours": 64
+  },
+  {
+    "code": 19,
+    "name": "Metodología de la Investigación",
+    "year": 3,
+    "term": 5,
+    "video": "",
+    "theme": "datos",
+    "corr": [
+      "1 a 8",
+      "4",
+      "—",
+      "9"
+    ],
+    "intro": "Preguntar, investigar y construir conocimiento.",
+    "hours": 64
+  },
+  {
+    "code": 20,
+    "name": "Seguridad 3",
+    "year": 3,
+    "term": 5,
+    "video": "",
+    "theme": "seguridad",
+    "corr": [
+      "1, 6, 9 y 12",
+      "4",
+      "1 - 8",
+      "9"
+    ],
+    "intro": "Integrar los conocimientos de seguridad.",
+    "hours": 64
+  },
+  {
+    "code": 21,
+    "name": "Capacitación de Personal",
+    "year": 3,
+    "term": 5,
+    "video": "",
+    "theme": "personas",
+    "corr": [
+      "2; 7; 11",
+      "1; 4",
+      "16",
+      "1; 4; 5; 8"
+    ],
+    "intro": "Compartir conocimientos para prevenir.",
+    "hours": 64
+  },
+  {
+    "code": 22,
+    "name": "Evaluación de Impacto Ambiental",
+    "year": 3,
+    "term": 6,
+    "video": "uQRZq20GckM",
+    "theme": "ambiente",
+    "corr": [
+      "2 y 18",
+      "8",
+      "—",
+      "3, 7 y 18"
+    ],
+    "intro": "Analizar la relación entre las actividades y el entorno.",
+    "hours": 64
+  },
+  {
+    "code": 23,
+    "name": "Seguridad Aplicada",
+    "year": 3,
+    "term": 6,
+    "video": "",
+    "theme": "seguridad",
+    "corr": [
+      "5 y 20",
+      "9",
+      "—",
+      "9"
+    ],
+    "intro": "Llevar la prevención a situaciones concretas.",
+    "hours": 64
+  },
+  {
+    "code": 24,
+    "name": "Higiene Laboral y Ambiente de Trabajo 2",
+    "year": 3,
+    "term": 6,
+    "video": "V_IwXaJ7EBM",
+    "theme": "seguridad",
+    "corr": [
+      "16",
+      "1-9",
+      "—",
+      "16 – 9"
+    ],
+    "intro": "Profundizar el análisis de las condiciones laborales.",
+    "hours": 64
+  },
+  {
+    "code": 25,
+    "name": "Práctica Profesionalizante",
+    "year": 3,
+    "term": 6,
+    "video": "",
+    "theme": "practica",
+    "corr": [
+      "13 a 16 + 18, 20 y 21",
+      "1 a 12",
+      "—",
+      "1 a 24"
+    ],
+    "intro": "Integrar la formación en la práctica profesional.",
+    "hours": 128
+  }
+]
